@@ -153,6 +153,9 @@ h1{
     .up{
         align-self: flex-start;
     }
+    .center{
+        margin: 0 10px;
+    }
     .down{
         align-self: flex-end;
     }
